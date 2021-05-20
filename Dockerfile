@@ -1,5 +1,5 @@
 FROM keymetrics/pm2:latest-stretch
-LABEL maintainer="Jose Bracho <brachojgbp@hotmail.com>"
+LABEL maintainer="Jose Bracho <brachojgbp@gmail.com>"
 
 RUN mkdir /usr/src/app
 
